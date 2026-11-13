@@ -6,4 +6,4 @@
 1. **Bài 1 - BikeShop (3 Screens):** [Xem thư mục BikeShop](./BikeShop)
 2. **Bài 2 - MovieApp (FlatList, Layout Switch, Jest):** [Xem thư mục MovieApp](./MovieApp)
 3. **Bài 3 - Tour Việt (SectionList, Optimistic PUT, Search):** [Xem thư mục TourApp](./TourApp)
-4. **File Word Báo cáo & Minh chứng:** [Xem thư mục BaoCao_MinhChung](./BaoCao_MinhChung)
+4. **File Word Báo cáo & Minh chứng:** [Xem thư mục minh_chung](./minh_chung)

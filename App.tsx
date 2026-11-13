@@ -1,11 +1,11 @@
 import React from 'react';
 import { SafeAreaProvider } from 'react-native-safe-area-context';
-import MovieScreen from './MovieApp/MovieScreen';
+import TourScreen from './TourApp/TourScreen';
 
 export default function App() {
   return (
     <SafeAreaProvider>
-      <MovieScreen />
+      <TourScreen />
     </SafeAreaProvider>
   );
 }

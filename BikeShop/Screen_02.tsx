@@ -19,7 +19,7 @@ const Screen_02 = ({ navigation }: Props) => {
   const [likedIds, setLikedIds] = useState<string[]>([]);
   const [loading, setLoading] = useState<boolean>(true);
 
-  const API_URL = 'https://6af6eebae844c7ff741bcb96.mockapi.io/bikes';
+  const API_URL = 'https://6af6f65be844c7ff741bd3c1.mockapi.io/bikes';
 
   useEffect(() => {
     fetch(API_URL)
